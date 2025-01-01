@@ -1,14 +1,4 @@
-/*
-  NHS Hours Tracker:
-
-  Purpose: Automate hour checking for NHS Students
-  Description: Pulls data from current and last year spreadsheets, calculates roll-over hours for current seniors, manipulates data, and sends an automated email to students with their hours on request. 
-
-  Created by Vivek Mehta, (NHS President, Class of [REDACTED])
-
-  Note: This is a Google Apps Script, so it is written in JavaScript. It is meant to be run on Google Sheets. Furthermore, you will have to change the ID's of the spreadsheets each year.
-
-*/
+//Created by Vivek Mehta, (NHS President, Class of 2025)
 
 const currentSeniorYear = "[REDACTED]";
 const personOfContact = "If there are any problems or issues, please reach out to [REDACTED]"
