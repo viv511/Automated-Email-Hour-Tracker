@@ -1,4 +1,4 @@
-# Automated Hours Tracker (w/ Google Apps Script)
+# Automated Email Hour Tracker (w/ Google Apps Script)
 
 ## Purpose
 **Automate** hour checking for National Honors Society (NHS) Students.
