@@ -13,7 +13,11 @@ Table of Contents
     * [HTML Email w/ Time-stamped Subject:](#html-email-w-time-stamped-subject)
 
 # How to use this template!
-I've added the sample functions you need in the [template.gs](template.gs) file. You can copy and paste these functions into your Google Apps Script project. I've attached text-based instructions and examples below to help you understand how to use these functions. :) 
+If you already have a spreadsheet (or a Google Form-generated spreadsheet), navigate to your spreadsheet. Then, go to **Extensions > Apps Script**. This will open Google Apps Script, where you can work with your spreadsheet data. This step is important so that later on if you decide to make your functions dependent on the spreadsheet, you can easily set up "triggers" (commands that run certain functions based on inputs).
+
+I've added some sample functions you might want in the [template.gs](template.gs) file. You can copy and paste these functions into your Google Apps Script project. I've attached text-based instructions and examples below to help you understand how to use these functions. :) 
+
+Huge kudos to [@Analytics with Adam](https://www.youtube.com/@analyticswithadamw) for his informative videos on Google Apps Script that helped me get started. He does a great job of explaining the basics and advanced features of Google Apps Script. I highly recommend checking out his YouTube channel for more information.
 
 happy coding!!
 
