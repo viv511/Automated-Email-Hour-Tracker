@@ -13,5 +13,8 @@ This script pulls data from current and last year spreadsheets, calculates roll-
 ## Author
 Created by Vivek Mehta, (NHS President, Class of 2025)
 
+## Template!
+I noticed a lot of other people would benefit from a template to grab data from Google Sheets and send automated emails, so I created a template for that. The [template/instructions.md](template/instructions.md) file has detailed instructions on how to use the template.
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
