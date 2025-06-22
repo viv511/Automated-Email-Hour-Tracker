@@ -183,7 +183,7 @@ function processThisYearStudents(studentData) {
     let hoursToAdd = specialRound(sampleStudent[studentHours]);
 
     if(typeOfHours === "NHS hours") {
-      students[email].nhs += specialRound(hoursToAdd);
+      students[email].nhs += hoursToAdd;
     }
     else {
       students[email].nonnhs += hoursToAdd;
